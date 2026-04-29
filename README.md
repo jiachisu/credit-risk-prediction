@@ -212,7 +212,7 @@ This project demonstrates:
 
 ---
 
-## 12. Interview Summary
+## 12. Summary
 
 In this project, I built a credit default prediction model using borrower-level loan data. I started with data cleaning and EDA, then engineered several risk-related features such as loan-to-income ratio and high-interest-rate indicators. I trained a Logistic Regression baseline model and a Random Forest model. The Random Forest model achieved an AUC of 0.923, outperforming the Logistic Regression baseline.
 
